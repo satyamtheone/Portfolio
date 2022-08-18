@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../.././assets/Satyam Singh Chauhan[1].pdf'
+import CV from '../.././assets/cv.docx'
 
 
 function Cta() {
